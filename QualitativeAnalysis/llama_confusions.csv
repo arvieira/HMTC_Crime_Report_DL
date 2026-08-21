@@ -1,0 +1,61 @@
+Level,True_Label,Predicted_Label,count
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes Contra Propriedade,232
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes Contra Pessoa,143
+N1,Crimes Contra Propriedade,Crimes Contra Pessoa,81
+N1,Crimes Contra Pessoa,Crimes de Trânsito ou Meio Ambiente,74
+N1,Violação ou Perturbação ou Dano ou Exercício Arbitrário,Crimes Contra Propriedade,52
+N1,Violação ou Perturbação ou Dano ou Exercício Arbitrário,Crimes Contra Pessoa,51
+N1,Crimes de Trânsito ou Meio Ambiente,Crimes Contra Propriedade,46
+N1,Crimes Contra Pessoa,Crimes Contra Propriedade,41
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes de Trânsito ou Meio Ambiente,37
+N1,"Resistência, Desacato ou Desobediência",Crimes Contra Pessoa,37
+N1,Crimes Contra Propriedade,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,32
+N1,"Relacionados a Drogas, Entorpecentes e Porte de Armas",Crimes Contra Pessoa,17
+N1,"Relacionados a Drogas, Entorpecentes e Porte de Armas",Crimes Contra Propriedade,17
+N1,Crimes Contra Pessoa,"Resistência, Desacato ou Desobediência",16
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,"Relacionados a Drogas, Entorpecentes e Porte de Armas",13
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,"Resistência, Desacato ou Desobediência",10
+N1,"Resistência, Desacato ou Desobediência",Crimes Contra Propriedade,8
+N1,Violação ou Perturbação ou Dano ou Exercício Arbitrário,Sem Classificação,6
+N1,Crimes de Trânsito ou Meio Ambiente,Crimes Contra Pessoa,5
+N1,Crimes Contra Propriedade,"Resistência, Desacato ou Desobediência",4
+N2,Furto,Roubo,108
+N2,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,Lesão Corporal,36
+N2,Lesão Corporal,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,23
+N2,Lei de Drogas (Outros) (Lei 11.343/06),Tráfico de Drogas (Lei 11.343/06),17
+N2,Atos Administrativos,Recuperação de Veículo,16
+N2,Desacato,Resistência qualificada,16
+N2,Desobediência,Resistência qualificada,14
+N2,Porte Ilegal de Arma de Fogo de Uso Restrito,Tráfico de Drogas (Lei 11.343/06),12
+N2,Associação para Tráfico de Droga (Lei 11.343/06),Tráfico de Drogas (Lei 11.343/06),12
+N2,Porte de Droga para Consumo Próprio (Lei 11.343/06),Apreensão de Substância Entorpecente,12
+N2,Receptação,Roubo,11
+N2,Resistência,Resistência qualificada,11
+N2,Furto,Estelionato,10
+N2,Lesão Corporal,Homicídio,10
+N2,Estupro,Sem Classificação,9
+N2,Descumprimento de Medidas Protetivas de Urgência,Lesão Corporal,8
+N2,Tráfico de Drogas (Lei 11.343/06),Apreensão de Substância Entorpecente,7
+N2,Homicídio,Sem Classificação,7
+N2,Homicídio,Lesão Corporal,7
+N2,Apropriação Indébita (outros),Estelionato,6
+N3,Estelionato (outros) - Tentativa,Estelionato (outros),26
+N3,Furto a Estabelecimento Comercial,Furto no Interior de Estabelecimento Comercial,19
+N3,Roubo a Estabelecimento Comercial,Roubo no Interior de Estabelecimento Comercial,16
+N3,Homicídio Provocado por Projétil de Arma de Fogo - Tentativa,Homicídio Provocado por Projétil de Arma de Fogo,15
+N3,Roubo de Veículo - Moto,Roubo de Veículo,12
+N3,Lesão Corporal (outros),"Lesão Corporal Provocada por Socos, Tapas e Pontapés",11
+N3,Calúnia,Injúria (outros),11
+N3,"Lesão Corporal Provocada por Socos, Tapas e Pontapés",Lesão Corporal (outros),10
+N3,Roubo outros,Roubo a Transeunte,10
+N3,Roubo no Interior de Veículo,Roubo a Transeunte,9
+N3,Furto de Veículo - Moto,Furto de Veículo,8
+N3,Estupro,Estupro de Vulnerável,8
+N3,Difamação,Injúria (outros),7
+N3,Furto no Interior de Coletivo,Furto a Transeunte,7
+N3,Injúria por preconceito,Injúria (outros),6
+N3,Roubo de Telefone Celular,Roubo a Transeunte,6
+N3,Sanções Penais e Administrativas ao Meio Ambiente,Sem Classificação,6
+N3,Roubo no Interior de Estabelecimento Comercial,Roubo outros,5
+N3,Furto de Telefone Celular,Furto a Transeunte,5
+N3,Roubo a Estabelecimento Comercial,Roubo a Transeunte,4

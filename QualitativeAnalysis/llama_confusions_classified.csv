@@ -1,0 +1,61 @@
+﻿Level,True_Label,Predicted_Label,count,Error_Category,Review
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes Contra Propriedade,232,Operational workflow confusion,Operational workflow confusion
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes Contra Pessoa,143,Operational workflow confusion,Operational workflow confusion
+N1,Crimes Contra Propriedade,Crimes Contra Pessoa,81,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Crimes Contra Pessoa,Crimes de Trânsito ou Meio Ambiente,74,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Violação ou Perturbação ou Dano ou Exercício Arbitrário,Crimes Contra Propriedade,52,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Violação ou Perturbação ou Dano ou Exercício Arbitrário,Crimes Contra Pessoa,51,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Crimes de Trânsito ou Meio Ambiente,Crimes Contra Propriedade,46,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Crimes Contra Pessoa,Crimes Contra Propriedade,41,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes de Trânsito ou Meio Ambiente,37,Operational workflow confusion,Operational workflow confusion
+N1,"Resistência, Desacato ou Desobediência",Crimes Contra Pessoa,37,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Crimes Contra Propriedade,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,32,Operational workflow confusion,Operational workflow confusion
+N1,"Relacionados a Drogas, Entorpecentes e Porte de Armas",Crimes Contra Pessoa,17,Crimes coexistence confusion,Crimes coexistence confusion
+N1,"Relacionados a Drogas, Entorpecentes e Porte de Armas",Crimes Contra Propriedade,17,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Crimes Contra Pessoa,"Resistência, Desacato ou Desobediência",16,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,"Relacionados a Drogas, Entorpecentes e Porte de Armas",13,Operational workflow confusion,Operational workflow confusion
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,"Resistência, Desacato ou Desobediência",10,Operational workflow confusion,Operational workflow confusion
+N1,"Resistência, Desacato ou Desobediência",Crimes Contra Propriedade,8,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Violação ou Perturbação ou Dano ou Exercício Arbitrário,Sem Classificação,6,Crimes coexistence confusion,Unclassified
+N1,Crimes de Trânsito ou Meio Ambiente,Crimes Contra Pessoa,5,Crimes coexistence confusion,Crimes coexistence confusion
+N1,Crimes Contra Propriedade,"Resistência, Desacato ou Desobediência",4,Crimes coexistence confusion,Crimes coexistence confusion
+N2,Furto,Roubo,108,Semantic overlap confusion,Semantic overlap confusion
+N2,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,Lesão Corporal,36,Semantic overlap confusion,Semantic overlap confusion
+N2,Lesão Corporal,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,23,Semantic overlap confusion,Semantic overlap confusion
+N2,Lei de Drogas (Outros) (Lei 11.343/06),Tráfico de Drogas (Lei 11.343/06),17,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N2,Atos Administrativos,Recuperação de Veículo,16,Operational workflow confusion,Operational workflow confusion
+N2,Desacato,Resistência qualificada,16,Semantic overlap confusion,Semantic overlap confusion
+N2,Desobediência,Resistência qualificada,14,Semantic overlap confusion,Semantic overlap confusion
+N2,Porte Ilegal de Arma de Fogo de Uso Restrito,Tráfico de Drogas (Lei 11.343/06),12,Crimes coexistence confusion,Crimes coexistence confusion
+N2,Associação para Tráfico de Droga (Lei 11.343/06),Tráfico de Drogas (Lei 11.343/06),12,Semantic overlap confusion,Semantic overlap confusion
+N2,Porte de Droga para Consumo Próprio (Lei 11.343/06),Apreensão de Substância Entorpecente,12,Semantic overlap confusion,Operational workflow confusion
+N2,Receptação,Roubo,11,Semantic overlap confusion,Operational workflow confusion
+N2,Resistência,Resistência qualificada,11,Semantic overlap confusion,Generic-versus-specific subtype confusion
+N2,Furto,Estelionato,10,Semantic overlap confusion,Semantic overlap confusion
+N2,Lesão Corporal,Homicídio,10,Semantic overlap confusion,Semantic overlap confusion
+N2,Estupro,Sem Classificação,9,Crimes coexistence confusion,Unclassified
+N2,Descumprimento de Medidas Protetivas de Urgência,Lesão Corporal,8,Semantic overlap confusion,Crimes coexistence confusion
+N2,Tráfico de Drogas (Lei 11.343/06),Apreensão de Substância Entorpecente,7,Semantic overlap confusion,Operational workflow confusion
+N2,Homicídio,Sem Classificação,7,Crimes coexistence confusion,Unclassified
+N2,Homicídio,Lesão Corporal,7,Semantic overlap confusion,Semantic overlap confusion
+N2,Apropriação Indébita (outros),Estelionato,6,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Estelionato (outros) - Tentativa,Estelionato (outros),26,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Furto a Estabelecimento Comercial,Furto no Interior de Estabelecimento Comercial,19,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Roubo a Estabelecimento Comercial,Roubo no Interior de Estabelecimento Comercial,16,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Homicídio Provocado por Projétil de Arma de Fogo - Tentativa,Homicídio Provocado por Projétil de Arma de Fogo,15,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Roubo de Veículo - Moto,Roubo de Veículo,12,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Lesão Corporal (outros),"Lesão Corporal Provocada por Socos, Tapas e Pontapés",11,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Calúnia,Injúria (outros),11,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,"Lesão Corporal Provocada por Socos, Tapas e Pontapés",Lesão Corporal (outros),10,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Roubo outros,Roubo a Transeunte,10,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Roubo no Interior de Veículo,Roubo a Transeunte,9,Generic-versus-specific subtype confusion,Semantic overlap confusion
+N3,Furto de Veículo - Moto,Furto de Veículo,8,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Estupro,Estupro de Vulnerável,8,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Difamação,Injúria (outros),7,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Furto no Interior de Coletivo,Furto a Transeunte,7,Generic-versus-specific subtype confusion,Semantic overlap confusion
+N3,Injúria por preconceito,Injúria (outros),6,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Roubo de Telefone Celular,Roubo a Transeunte,6,Generic-versus-specific subtype confusion,Semantic overlap confusion
+N3,Sanções Penais e Administrativas ao Meio Ambiente,Sem Classificação,6,Crimes coexistence confusion,Unclassified
+N3,Roubo no Interior de Estabelecimento Comercial,Roubo outros,5,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Furto de Telefone Celular,Furto a Transeunte,5,Generic-versus-specific subtype confusion,Generic-versus-specific subtype confusion
+N3,Roubo a Estabelecimento Comercial,Roubo a Transeunte,4,Generic-versus-specific subtype confusion,Semantic overlap confusion

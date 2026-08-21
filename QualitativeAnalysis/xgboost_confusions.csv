@@ -1,0 +1,61 @@
+Level,True_Label,Predicted_Label,count
+N1,Crimes Contra Pessoa,Violação ou Perturbação ou Dano ou Exercício Arbitrário,104
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes Contra Propriedade,45
+N1,Crimes Contra Pessoa,Crimes de Trânsito ou Meio Ambiente,40
+N1,Crimes Contra Propriedade,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,31
+N1,Crimes Contra Pessoa,"Resistência, Desacato ou Desobediência",26
+N1,Crimes Contra Pessoa,Crimes Contra Propriedade,21
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes de Trânsito ou Meio Ambiente,21
+N1,Crimes Contra Propriedade,Violação ou Perturbação ou Dano ou Exercício Arbitrário,17
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,"Relacionados a Drogas, Entorpecentes e Porte de Armas",13
+N1,Violação ou Perturbação ou Dano ou Exercício Arbitrário,Crimes Contra Pessoa,12
+N1,Violação ou Perturbação ou Dano ou Exercício Arbitrário,Crimes Contra Propriedade,10
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Violação ou Perturbação ou Dano ou Exercício Arbitrário,10
+N1,Crimes Contra Propriedade,"Relacionados a Drogas, Entorpecentes e Porte de Armas",9
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes Contra Pessoa,8
+N1,"Resistência, Desacato ou Desobediência","Relacionados a Drogas, Entorpecentes e Porte de Armas",7
+N1,"Relacionados a Drogas, Entorpecentes e Porte de Armas","Resistência, Desacato ou Desobediência",7
+N1,Crimes Contra Pessoa,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,6
+N1,Crimes Contra Propriedade,Crimes de Trânsito ou Meio Ambiente,5
+N1,"Resistência, Desacato ou Desobediência",Crimes de Trânsito ou Meio Ambiente,5
+N1,"Resistência, Desacato ou Desobediência",Crimes Contra Pessoa,4
+N2,Furto,Apropriação Indébita (outros),12
+N2,Registro de Um Acontecimento,Atos Administrativos,11
+N2,Lesão Corporal,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,10
+N2,Roubo,Receptação,9
+N2,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,Lesão Corporal,9
+N2,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,Descumprimento de Medidas Protetivas de Urgência,8
+N2,Porte Ilegal de Arma de Fogo de Uso Restrito,Associação para Tráfico de Droga (Lei 11.343/06),8
+N2,Tráfico de Drogas (Lei 11.343/06),Associação para Tráfico de Droga (Lei 11.343/06),8
+N2,Atos Administrativos,Registro de Um Acontecimento,8
+N2,Lei de Drogas (Outros) (Lei 11.343/06),Tráfico de Drogas (Lei 11.343/06),7
+N2,Dano (outros),Violação de Domicílio,7
+N2,Lesão Corporal,Homicídio,7
+N2,Lesão Corporal,Descumprimento de Medidas Protetivas de Urgência,7
+N2,Furto,Roubo,7
+N2,Desobediência,Resistência,6
+N2,Associação para Tráfico de Droga (Lei 11.343/06),Porte Ilegal de Arma de Fogo de Uso Restrito,6
+N2,Resistência,Desacato,5
+N2,Associação para Tráfico de Droga (Lei 11.343/06),Lei de Drogas (Outros) (Lei 11.343/06),5
+N2,Associação para Tráfico de Droga (Lei 11.343/06),Tráfico de Drogas (Lei 11.343/06),5
+N2,Adulteração de Sinal Identificador de Veículo Automotor,"Falta de Habilitação, Proibição Dirigir Veículo Automotor",4
+N3,Desaparecimento outros,Encontro de Desaparecido,15
+N3,Cumprimento de Mandado de Prisão,Proveniente de Prisão Preventiva da Unidade Policial,11
+N3,Encontro de Desaparecido,Desaparecimento outros,10
+N3,Recuperação de Veículo Roubado,Recuperação de Veículo Furtado,8
+N3,Roubo no Interior de Estabelecimento Comercial,Roubo a Estabelecimento Comercial,8
+N3,Recuperação de Veículo Furtado,Recuperação de Veículo Roubado,7
+N3,Proveniente de Prisão Preventiva da Unidade Policial,Cumprimento de Mandado de Prisão,7
+N3,Estelionato (outros),Estelionato com Emprego de Cartão de Crédito,7
+N3,Furto a Transeunte,Furto de Telefone Celular,6
+N3,Roubo outros,Roubo no Interior de Veículo,6
+N3,Roubo no Interior de Veículo,Roubo a Transeunte,6
+N3,Lesão Corporal (outros),"Lesão Corporal Provocada por Socos, Tapas e Pontapés",5
+N3,Estupro,Estupro de Vulnerável,5
+N3,Estupro de Vulnerável,Estupro,5
+N3,Lesão Corporal Culposa (outros) (Lei 9503/97),Lesão Corporal Culposa Provocada por Atropelamento,5
+N3,Roubo a Estabelecimento Comercial,Roubo no Interior de Estabelecimento Comercial,5
+N3,Lesão Corporal Culposa Provocada por Colisão de Veículo,Lesão Corporal Culposa (outros) (Lei 9503/97),5
+N3,Furto a Estabelecimento Comercial,Furto no Interior de Estabelecimento Comercial,5
+N3,Roubo no Interior de Veículo,Roubo de Veículo,4
+N3,Roubo no Interior de Veículo,Roubo de Telefone Celular,4

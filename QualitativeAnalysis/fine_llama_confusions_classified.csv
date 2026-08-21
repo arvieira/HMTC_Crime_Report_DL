@@ -1,0 +1,61 @@
+﻿Level,True_Label,Predicted_Label,count,Error_Category,Review
+N1,Crimes Contra Pessoa,Violação ou Perturbação ou Dano ou Exercício Arbitrário,41,Coexistência de delitos,Coexistência de delitos
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes Contra Propriedade,35,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N1,Crimes Contra Pessoa,"Resistência, Desacato ou Desobediência",30,Coexistência de delitos,Coexistência de delitos
+N1,Crimes Contra Pessoa,Crimes de Trânsito ou Meio Ambiente,18,Coexistência de delitos,Coexistência de delitos
+N1,Crimes Contra Propriedade,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,16,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes de Trânsito ou Meio Ambiente,13,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N1,Violação ou Perturbação ou Dano ou Exercício Arbitrário,Crimes Contra Pessoa,11,Coexistência de delitos,Coexistência de delitos
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,"Relacionados a Drogas, Entorpecentes e Porte de Armas",11,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N1,Crimes Contra Propriedade,Violação ou Perturbação ou Dano ou Exercício Arbitrário,8,Coexistência de delitos,Coexistência de delitos
+N1,Crimes Contra Pessoa,Crimes Contra Propriedade,8,Coexistência de delitos,Coexistência de delitos
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Crimes Contra Pessoa,7,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N1,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,Violação ou Perturbação ou Dano ou Exercício Arbitrário,7,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N1,Crimes Contra Pessoa,"Relacionados a Drogas, Entorpecentes e Porte de Armas",7,Coexistência de delitos,Coexistência de delitos
+N1,Crimes Contra Propriedade,"Resistência, Desacato ou Desobediência",7,Coexistência de delitos,Coexistência de delitos
+N1,Crimes de Trânsito ou Meio Ambiente,"Resistência, Desacato ou Desobediência",6,Coexistência de delitos,Coexistência de delitos
+N1,"Relacionados a Drogas, Entorpecentes e Porte de Armas",Crimes Contra Pessoa,6,Coexistência de delitos,Coexistência de delitos
+N1,Crimes Contra Propriedade,Crimes de Trânsito ou Meio Ambiente,5,Coexistência de delitos,Coexistência de delitos
+N1,"Resistência, Desacato ou Desobediência","Relacionados a Drogas, Entorpecentes e Porte de Armas",5,Coexistência de delitos,Coexistência de delitos
+N1,Crimes Contra Pessoa,Recuperação de Veículo ou Atos Administrativos ou Registro de Acontecimentos,4,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N1,Crimes Contra Propriedade,Crimes Contra Pessoa,4,Coexistência de delitos,Coexistência de delitos
+N2,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,Lesão Corporal,14,Delitos relacionados,Delitos relacionados
+N2,Registro de Um Acontecimento,Atos Administrativos,14,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N2,Furto,Apropriação Indébita (outros),13,Delitos relacionados,Delitos relacionados
+N2,Lei de Drogas (Outros) (Lei 11.343/06),Tráfico de Drogas (Lei 11.343/06),11,Delitos relacionados,Categoria genérica e subtipo específico
+N2,Furto,Estelionato,10,Delitos relacionados,Delitos relacionados
+N2,Associação para Tráfico de Droga (Lei 11.343/06),Porte Ilegal de Arma de Fogo de Uso Restrito,7,Coexistência de delitos,Coexistência de delitos
+N2,Lesão Corporal,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,7,Delitos relacionados,Delitos relacionados
+N2,Desobediência,Desacato,6,Delitos relacionados,Delitos relacionados
+N2,Lesão Corporal,Homicídio,6,Delitos relacionados,Delitos relacionados
+N2,Tráfico de Drogas (Lei 11.343/06),Porte Ilegal de Arma de Fogo de Uso Restrito,6,Coexistência de delitos,Coexistência de delitos
+N2,Lei de Drogas (Outros) (Lei 11.343/06),Associação para Tráfico de Droga (Lei 11.343/06),6,Delitos relacionados,Categoria genérica e subtipo específico
+N2,Dano (outros),Violação de Domicílio,6,Delitos relacionados,Categoria genérica e subtipo específico
+N2,Atos Administrativos,Registro de Um Acontecimento,6,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N2,Associação para Tráfico de Droga (Lei 11.343/06),Tráfico de Drogas (Lei 11.343/06),5,Delitos relacionados,Delitos relacionados
+N2,Tráfico de Drogas (Lei 11.343/06),Associação para Tráfico de Droga (Lei 11.343/06),5,Delitos relacionados,Delitos relacionados
+N2,Lei de Drogas (Outros) (Lei 11.343/06),Porte Ilegal de Arma de Fogo de Uso Restrito,5,Coexistência de delitos,Coexistência de delitos
+N2,Atos Administrativos,Recuperação de Veículo,5,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N2,Desacato,Resistência,5,Delitos relacionados,Delitos relacionados
+N2,Furto,Roubo,4,Delitos relacionados,Delitos relacionados
+N2,Ameaça ou Injúria ou Perseguição ou Dano ou Extorsão,Descumprimento de Medidas Protetivas de Urgência,4,Delitos relacionados,Delitos relacionados
+N3,Desaparecimento outros,Encontro de Desaparecido,19,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N3,Lesão Corporal Culposa (outros) (Lei 9503/97),Lesão Corporal Culposa Provocada por Colisão de Veículo,14,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Recuperação de Veículo Furtado,Recuperação de Veículo Roubado,13,Estados do mesmo processo operacional,Delitos relacionados
+N3,Roubo outros,Roubo a Transeunte,11,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Lesão Corporal (outros),"Lesão Corporal Provocada por Socos, Tapas e Pontapés",10,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Cumprimento de Mandado de Prisão,Proveniente de Prisão Preventiva da Unidade Policial,8,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N3,Furto no Interior de Estabelecimento Comercial,Furto a Estabelecimento Comercial,8,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Proveniente de Prisão Preventiva da Unidade Policial,Cumprimento de Mandado de Prisão,8,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N3,Furto outros,Furto a Transeunte,8,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Estelionato (outros),Estelionato com Emprego de Cartão de Crédito,7,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Roubo no Interior de Estabelecimento Comercial,Roubo a Estabelecimento Comercial,7,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Difamação,Calúnia,7,Delitos relacionados,Delitos relacionados
+N3,Encontro de Desaparecido,Desaparecimento outros,6,Estados do mesmo processo operacional,Estados do mesmo processo operacional
+N3,Lesão Corporal Culposa (outros) (Lei 9503/97),Lesão Corporal Culposa Provocada por Atropelamento,6,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Vias de Fato,Lesão Corporal (outros),6,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Homicídio Provocado por Projétil de Arma de Fogo,Homicídio Provocado por Projétil de Arma de Fogo - Tentativa,5,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Roubo outros,Roubo no Interior de Veículo,5,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,"Lesão Corporal Provocada por Socos, Tapas e Pontapés",Lesão Corporal (outros),5,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
+N3,Roubo a Transeunte,Roubo de Telefone Celular,4,Categoria genérica e subtipo específico,Delitos relacionados
+N3,Roubo a Transeunte,Roubo outros,4,Categoria genérica e subtipo específico,Categoria genérica e subtipo específico
